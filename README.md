@@ -1,16 +1,19 @@
 ## Hi there 👋
 
 <!--
-**Cleveland1000/Cleveland1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Information Security student at Gran Faculdade, currently in my second semester.
 
-Here are some ideas to get you started:
+##My interests include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Offensive Security (Penetration Testing)
+Computer Networks
+Linux
+Vulnerability Analysis
+Python Programming
+
+##Technologies I am learning: 
+Linux
+Python
+Git and GitHub
+TCP/IP Networks
+Information Security
